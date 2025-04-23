@@ -1,4 +1,4 @@
-# code
+# code for final report
 I’ve added a set of ancillary code artifacts into the file codeartifacts.py , including:
 
 Dockerfile for environment setup (AFL, LLVM, Valgrind, SonarScanner, Semgrep).
